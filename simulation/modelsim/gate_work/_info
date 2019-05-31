@@ -1,0 +1,83 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Semestr_2.4\TPKS\Lab_1\simulation\modelsim
+Elabwork_1
+Z1 w1551792054
+Z2 DPx4 ieee 16 vital_primitives 0 22 9W@YP9_VCb?_GCJ8e:;YQ0
+Z3 DPx9 cycloneiv 19 cycloneiv_atom_pack 0 22 m?`=;YMPDJ6nin9AMY9NB1
+Z4 DPx4 ieee 12 vital_timing 0 22 7h8zz2S4HVg:a;2TBMI[j1
+Z5 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z6 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z7 DPx9 cycloneiv 20 cycloneiv_components 0 22 bh0cR2@ZAOzXIcZ^3KXOk0
+Z8 dE:\Semestr_2.4\TPKS\Lab_1\simulation\modelsim
+Z9 8Project_1.vho
+Z10 FProject_1.vho
+l0
+L34
+V5dWL0]dJo;9eAFXXf>[UI1
+Z11 OV;C;10.1d;51
+31
+Z12 !s108 1551792069.731000
+Z13 !s90 -reportprogress|300|-93|-work|work|Project_1.vho|
+Z14 !s107 Project_1.vho|
+Z15 o-93 -work work -O0
+Z16 tExplicit 1
+!s100 8Ml7QA3F>lLkBhg<_ZekJ3
+!i10b 1
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 9 labwork_1 0 22 5dWL0]dJo;9eAFXXf>[UI1
+l79
+L54
+VO2b1:S]mH1VdLb>04H[nL1
+R11
+31
+R12
+R13
+R14
+R15
+R16
+!s100 >Mi5Em7;Ab8YiT9Tnh6?J3
+!i10b 1
+Etb_labwork_1
+Z17 w1550609009
+R5
+R6
+R8
+Z18 8E:/Semestr_2.4/TPKS/Lab_1/tb_labwork_1.vhd
+Z19 FE:/Semestr_2.4/TPKS/Lab_1/tb_labwork_1.vhd
+l0
+L4
+V0@8PKjL?1V8I8QiY?V::G1
+!s100 m`m<2Q^WE]7j3[1J]<^FM1
+R11
+31
+!i10b 1
+Z20 !s108 1551792070.146000
+Z21 !s90 -reportprogress|300|-93|-work|work|E:/Semestr_2.4/TPKS/Lab_1/tb_labwork_1.vhd|
+Z22 !s107 E:/Semestr_2.4/TPKS/Lab_1/tb_labwork_1.vhd|
+R15
+R16
+Astruct_1
+R5
+R6
+DEx4 work 12 tb_labwork_1 0 22 0@8PKjL?1V8I8QiY?V::G1
+l17
+L7
+VJ8k^lY:I>O?EF;YfzfaI^3
+!s100 WVgLi8mh[IR;=QX]H8kL>0
+R11
+31
+!i10b 1
+R20
+R21
+R22
+R15
+R16

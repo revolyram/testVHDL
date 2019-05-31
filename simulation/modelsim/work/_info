@@ -1,0 +1,110 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Semestr_2.4\TPKS\Lab_1\simulation\modelsim
+Elabwork_1
+Z1 w1550605712
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dE:\Semestr_2.4\TPKS\Lab_1\simulation\modelsim
+Z5 8E:/Semestr_2.4/TPKS/Lab_1/labwork_1.vhd
+Z6 FE:/Semestr_2.4/TPKS/Lab_1/labwork_1.vhd
+l0
+L4
+VW2d5a2fVanoK_lm^_^@Oh0
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1551792294.947000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|E:/Semestr_2.4/TPKS/Lab_1/labwork_1.vhd|
+Z10 !s107 E:/Semestr_2.4/TPKS/Lab_1/labwork_1.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 CeFcWYW65d8[Qe9j@JT3R3
+!i10b 1
+Astruct_1
+R2
+R3
+DEx4 work 9 labwork_1 0 22 W2d5a2fVanoK_lm^_^@Oh0
+l13
+L12
+VO`cO@E;mUj@Znz8GjSa;F2
+!s100 HzDlEnAHOP0M7ianB@2I91
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!i10b 1
+Etb_labwork1
+Z13 w1550606139
+R2
+R3
+R4
+Z14 8E:/Semestr_2.4/TPKS/Lab_1/tb_labwork_1.vhd
+Z15 FE:/Semestr_2.4/TPKS/Lab_1/tb_labwork_1.vhd
+l0
+L4
+VKQL0[aM[A8zWaVZLHIbZE3
+R7
+32
+Z16 !s108 1550606394.081000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|E:/Semestr_2.4/TPKS/Lab_1/tb_labwork_1.vhd|
+Z18 !s107 E:/Semestr_2.4/TPKS/Lab_1/tb_labwork_1.vhd|
+R11
+R12
+!s100 9>o>98`kC>zTgF1nfcz`W1
+!i10b 1
+Astruct_1
+R2
+R3
+DEx4 work 11 tb_labwork1 0 22 KQL0[aM[A8zWaVZLHIbZE3
+l17
+L7
+VC0iL4@6Q2[eP_H?G5?IEn1
+R7
+32
+R16
+R17
+R18
+R11
+R12
+!s100 O@L@47C2_8GSJ_Q@F@:DH1
+!i10b 1
+Etb_labwork_1
+Z19 w1550609009
+R2
+R3
+R4
+R14
+R15
+l0
+L4
+V=e[OdHC]oneg_`2N>cm2b1
+!s100 m`m<2Q^WE]7j3[1J]<^FM1
+R7
+32
+!i10b 1
+Z20 !s108 1551792295.330000
+R17
+Z21 !s107 E:/Semestr_2.4/TPKS/Lab_1/tb_labwork_1.vhd|
+R11
+R12
+Astruct_1
+R2
+R3
+Z22 DEx4 work 12 tb_labwork_1 0 22 =e[OdHC]oneg_`2N>cm2b1
+l17
+L7
+Z23 V`7W7MhVnW0:N@G@Tj2zhN3
+Z24 !s100 WVgLi8mh[IR;=QX]H8kL>0
+R7
+32
+!i10b 1
+R20
+R17
+R21
+R11
+R12

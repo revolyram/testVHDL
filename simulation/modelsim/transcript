@@ -1,0 +1,78 @@
+# Compile of labwork_1.vhd was successful.
+# Compile of labwork_1.vhd was successful.
+# Compile of tb_labwork_1.vhd was successful.
+# Compile of tb_labwork_1.vhd was successful.
+vsim +transport_int_delays +transport_path_delays -L altera_mf -L altera -L lpm -L sgate -L cycloneiv_hssi -L cycloneiv_pcie_hip -L cycloneiv -L gate_work -L work -voptargs=\"+acc\" -sdftyp /NA=Project_1_vhd.sdo work.tb_labwork_1
+# vsim +transport_int_delays +transport_path_delays -L altera_mf -L altera -L lpm -L sgate -L cycloneiv_hssi -L cycloneiv_pcie_hip -L cycloneiv -L gate_work -L work -voptargs=\"+acc\" -sdftyp /NA=Project_1_vhd.sdo work.tb_labwork_1 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_labwork_1(struct_1)
+# SDF 10.1d Compiler 2012.11 Nov  2 2012
+# 
+# Loading work.labwork_1(struct_1)
+# Loading instances from Project_1_vhd.sdo
+# ** Error: (vsim-SDF-3250) Project_1_vhd.sdo(0): Failed to find INSTANCE '/NA'.
+# 
+# ** Error: (vsim-SDF-3894) : Errors occured in reading and resolving instances from compiled SDF file(s).
+# 
+# ** Error: (vsim-SDF-3250) Project_1_vhd.sdo(0): Failed to find INSTANCE '/NA'.
+# 
+# Error loading design
+# Error: Error loading design 
+#        Pausing macro execution 
+# MACRO ./Project_1_run_msim_gate_vhdl.do PAUSED at line 12
+vsim +transport_int_delays +transport_path_delays -L altera_mf -L altera -L lpm -L sgate -L cycloneiv_hssi -L cycloneiv_pcie_hip -L cycloneiv -L gate_work -L work -voptargs=\"+acc\" -sdftyp /NA=Project_1_vhd.sdo work.tb_labwork1
+# vsim +transport_int_delays +transport_path_delays -L altera_mf -L altera -L lpm -L sgate -L cycloneiv_hssi -L cycloneiv_pcie_hip -L cycloneiv -L gate_work -L work -voptargs=\"+acc\" -sdftyp /NA=Project_1_vhd.sdo work.tb_labwork1 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_labwork1(struct_1)
+# SDF 10.1d Compiler 2012.11 Nov  2 2012
+# 
+# ** Warning: (vsim-3473) Component instance "m1 : lab1" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_labwork1 File: E:/Semestr_2.4/TPKS/Lab_1/tb_labwork_1.vhd
+# Loading instances from Project_1_vhd.sdo
+# ** Error: (vsim-SDF-3250) Project_1_vhd.sdo(0): Failed to find INSTANCE '/NA'.
+# 
+# ** Error: (vsim-SDF-3894) : Errors occured in reading and resolving instances from compiled SDF file(s).
+# 
+# ** Error: (vsim-SDF-3250) Project_1_vhd.sdo(0): Failed to find INSTANCE '/NA'.
+# 
+# Error loading design
+# Error: Error loading design 
+#        Pausing macro execution 
+# MACRO ./Project_1_run_msim_gate_vhdl.do PAUSED at line 12
+vsim +transport_int_delays +transport_path_delays -L altera_mf -L altera -L lpm -L sgate -L cycloneiv_hssi -L cycloneiv_pcie_hip -L cycloneiv -L gate_work -L work -voptargs=\"+acc\" -sdftyp /NA=Project_1_vhd.sdo -t ps work.tb_labwork_1
+# vsim +transport_int_delays +transport_path_delays -L altera_mf -L altera -L lpm -L sgate -L cycloneiv_hssi -L cycloneiv_pcie_hip -L cycloneiv -L gate_work -L work -voptargs=\"+acc\" -sdftyp /NA=Project_1_vhd.sdo -t ps work.tb_labwork_1 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_labwork_1(struct_1)
+# SDF 10.1d Compiler 2012.11 Nov  2 2012
+# 
+# Loading work.labwork_1(struct_1)
+# Loading instances from Project_1_vhd.sdo
+# ** Error: (vsim-SDF-3250) Project_1_vhd.sdo(0): Failed to find INSTANCE '/NA'.
+# 
+# ** Error: (vsim-SDF-3894) : Errors occured in reading and resolving instances from compiled SDF file(s).
+# 
+# ** Error: (vsim-SDF-3250) Project_1_vhd.sdo(0): Failed to find INSTANCE '/NA'.
+# 
+# Error loading design
+# Error: Error loading design 
+#        Pausing macro execution 
+# MACRO ./Project_1_run_msim_gate_vhdl.do PAUSED at line 12
+vsim work.tb_labwork_1
+# vsim work.tb_labwork_1 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_labwork_1(struct_1)
+# Loading work.labwork_1(struct_1)
+add wave sim:/tb_labwork_1/*
+run -all
+# Break key hit 
+# Break in Process line__22 at E:/Semestr_2.4/TPKS/Lab_1/tb_labwork_1.vhd line 27
+# Break key hit 
+add wave sim:/tb_labwork_1/*
